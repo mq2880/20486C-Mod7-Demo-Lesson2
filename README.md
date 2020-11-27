@@ -1,26 +1,14 @@
 # Tareas del MOC
 
-## MOD 7 - Accessing a  Database (19)
+## MOD 7 - Using Entity Framework Core in ASP.NET Core
 
-### L2:Querying Data by  Using LINQ
+### L2:Working with Entity Framework Core
 
-#### Demonstration:  Querying Data
+### Demonstration: How to Use Entity Framework Core
 
-QueryingData()
-
-![](.\img\Captura1.jpg)
+![](./img/Captura.jpg)
 
 
-
-FilteringDataByRow()
-
-![](.\img\Captura2.jpg)
-
-
-
-FilteringDataByColumn
-
-![](.\img\Captura3.jpg)
 
 
 
